@@ -1,1 +1,1 @@
-new branch is my_branch
+This is my another branch.
