@@ -2,3 +2,7 @@
 Add text
 change
 2nd change
+if a:
+	b
+	c
+end
