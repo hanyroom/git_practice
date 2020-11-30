@@ -1,1 +1,1 @@
-To ran rebase, From another to master
+done with git remote

@@ -1,0 +1,11 @@
+diff --git a/add_test.txt b/add_test.txt
+index d97ba1d..8fc9fe5 100644
+--- a/add_test.txt
++++ b/add_test.txt
+@@ -1,2 +1,4 @@
+ 2
+-Add text
+\ No newline at end of file
++Add text
++change
++2nd change
